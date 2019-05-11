@@ -42,8 +42,8 @@
     * 要素の情報（幅、余白など）を取得
 
 ## その他
-[Githubアカウント](https://github.com/benzy78)
-
+* [Githubアカウント](https://github.com/benzy78)
+* [一番直近でコーディングしたサイト](https://benzy78.github.io/day28/)
 
 
 ## 今後身に付けたいと考えてる知識やスキル
