@@ -6,9 +6,9 @@
 * Sass
 * JS
 * jQuery
-* WordPress
 
 「その他」
+* WordPress
 * Git/Github（Githubフローを用いたチーム開発）
 * Gulp
 
